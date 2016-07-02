@@ -438,10 +438,7 @@ CSV files of various types.
         </dependency>
       </dependencies>
       
-      <properties>
-        <skipTests>true</skipTests>
-        <benchmark>org.apache</benchmark>
-      </properties>
+
       
       <build>
         <plugins>
